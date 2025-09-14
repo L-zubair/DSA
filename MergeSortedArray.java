@@ -38,6 +38,7 @@ public class MergeSortedArray {
         // print merged array
         for (int num : nums1) {
             System.out.print(num + " ");
+            System.out.println("hello");
         }
     }
 }
